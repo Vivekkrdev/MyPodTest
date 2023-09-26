@@ -11,7 +11,7 @@ new Vue({
             tracks: [{
                     name: "Meri Tarah Tum Bhi Kabhi",
                     artist: "Don't Know",
-                    cover: "./img/1.jpg",
+                    cover: "img/1.jpg",
                     source: "./mp3/1.mp3",
                     url: "https://www.youtube.com/watch?v=8XEisjR49QY",
                     favorited: false
