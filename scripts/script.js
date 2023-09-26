@@ -21,7 +21,7 @@ new Vue({
                     artist: "Don't Know",
                     cover: "./img/2.jpg",
                     source: "./mp3/2.mp3",
-                    url: "https://www.youtube.com/watch?v=IHNzOHi8sJs&ab_channel=BLACKPINK",
+                    url: "https://www.youtube.com/watch?v=ofjT0GcUijo",
                     favorited: true
                 },
 
@@ -30,7 +30,7 @@ new Vue({
                     artist: "Don't Know",
                     cover: "./img/3.jpg",
                     source: "./mp3/3.mp3",
-                    url: "https://www.youtube.com/watch?v=dyRsYk0LyA8&ab_channel=BLACKPINK",
+                    url: "https://www.youtube.com/watch?v=QfGvMehKolk",
                     favorited: false
                 },
 
@@ -47,7 +47,7 @@ new Vue({
                     artist: "Angrej Ladki",
                     cover: "./img/5.png",
                     source: "./mp3/5.mp3",
-                    url: "https://www.youtube.com/watch?v=Amq-qlqbjYA&ab_channel=BLACKPINK",
+                    url: "https://www.youtube.com/watch?v=sQEgklEwhSo",
                     favorited: true
                 }
 
