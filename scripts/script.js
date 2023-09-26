@@ -19,8 +19,8 @@ new Vue({
                 {
                     name: "Bekarar Karke Humein ",
                     artist: "Don't Know",
-                    cover: "../img/2.jpg",
-                    source: "../mp3/2.mp3",
+                    cover: "./img/2.jpg",
+                    source: "./mp3/2.mp3",
                     url: "https://www.youtube.com/watch?v=IHNzOHi8sJs&ab_channel=BLACKPINK",
                     favorited: true
                 },
@@ -28,8 +28,8 @@ new Vue({
                 {
                     name: "Humko Tere Bina Jeena",
                     artist: "Don't Know",
-                    cover: "../img/3.jpg",
-                    source: "../mp3/3.mp3",
+                    cover: "./img/3.jpg",
+                    source: "./mp3/3.mp3",
                     url: "https://www.youtube.com/watch?v=dyRsYk0LyA8&ab_channel=BLACKPINK",
                     favorited: false
                 },
@@ -37,16 +37,16 @@ new Vue({
                 {
                     name: "Guli Mata",
                     artist: "Shreya Ghosal",
-                    cover: "../img/4.jpg",
-                    source: "../mp3/4.mp3",
+                    cover: "./img/4.jpg",
+                    source: "./mp3/4.mp3",
                     url: "https://youtu.be/Gp1RNYBckBs",
                     favorited: false
                 },
                 {
                     name: "Harleys in Hawaii",
                     artist: "Angrej Ladki",
-                    cover: "../img/5.png",
-                    source: "../mp3/5.mp3",
+                    cover: "./img/5.png",
+                    source: "./mp3/5.mp3",
                     url: "https://www.youtube.com/watch?v=Amq-qlqbjYA&ab_channel=BLACKPINK",
                     favorited: true
                 }
