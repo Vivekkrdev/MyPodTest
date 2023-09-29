@@ -1,7 +1,7 @@
 body {
   background: #dfe7ef;
   font-family: "Bitter", serif;
-  backgound-image: linear-gradient(to bottom right, indigo, voilet);
+  background-image: linear-gradient(to bottom right, indigo, voilet);
 }
 
 * {
